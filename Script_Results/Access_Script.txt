@@ -1,0 +1,9 @@
+Beginning Selenium test: Access Script, please wait...
+Test run on the follow site information:
+http://35.227.36.86:8000/admin
+ToDoAdmin
+Swimming!
+
+Authentication Successful
+Navigating to developer created module: ToDo
+Navigation successful

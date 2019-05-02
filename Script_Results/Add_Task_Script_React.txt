@@ -1,0 +1,16 @@
+
+
+Beginning Selenium test: Access Script, please wait...
+Test run on the following information:
+http://35.227.36.86:3000
+Create D Script
+Need to create selenium script for Django backend to test add and removing tasks
+
+
+
+Beginning Selenium test: Access Script, please wait...
+Test run on the following information:
+http://35.227.36.86:3000
+Create D Script
+Need to create selenium script for Django backend to test add and removing tasks
+
