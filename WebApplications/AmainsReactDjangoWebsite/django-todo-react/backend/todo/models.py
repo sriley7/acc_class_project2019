@@ -1,6 +1,8 @@
 from django.db import models
 
 # Create your models here.
+# originally created by https://github.com/Jordanirabor/django-todo-react
+# project modified by Ashley Mains
 class ToDo(models.Model):
     title = models.CharField(max_length=120)
     description = models.TextField()

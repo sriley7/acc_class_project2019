@@ -1,4 +1,6 @@
-//Todo Frontend
+//Todo Frontend 
+//Originally Created by Jordan Irabor at https://github.com/Jordanirabor/django-todo-react
+//Modified by Ashley Mains
 import React, { Component } from "react";
 import Modal from "./components/Modal";
 import axios from "axios";

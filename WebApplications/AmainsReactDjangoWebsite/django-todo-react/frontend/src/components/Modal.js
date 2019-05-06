@@ -1,4 +1,6 @@
 // frontend/src/components/Modal.js
+//originally created by https://github.com/Jordanirabor/django-todo-react
+//modified by Ashley Mains
 
 import React, { Component } from "react";
 import {
